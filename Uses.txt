@@ -1,0 +1,7 @@
+#HEADER TOKEN
+    curl --request GET \
+        --url 'https://api.themoviedb.org/3/movie/11' \
+        --header 'Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxNTNlZWFjYWM3MjhjMzc5MGQ2OTU0YzgwYzRmYjNkMyIsInN1YiI6IjY1Mzk1YWFiNjc4MjU5MDBjN2U4MDEyMSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ._8cfKpS4hAfutJfWBcx386RAGVinyQBYjoT0L9_Wk58'
+
+# IMAGES DOMAIN
+    https://image.tmdb.org/t/p/w500
